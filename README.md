@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou Thaís Gadelha Marchioro</h1>
+<h1 align="center">Oi! Eu sou Thaís Gadelha Marchioro</h1>
 <h3 align="center">Estudante de Sistemas para Internet no Centro Universitário Uniesp. Atualmente, estudo HTML e CSS. Gosto de me desafiar e quero evoluir na área de tecnologia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thaisgadelha&label=Profile%20views&color=0e75b6&style=flat" alt="thaisgadelha" /> </p>
